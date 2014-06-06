@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 600 504.61" version="1.1">
+  <g id="layer1" transform="translate(-455.71 68.041)">
+    <g id="g2822">
+      <path id="path3663" d="m487.45 189.36c-4.1744 14.271-6.215 26.638-4.2312 44.427 8.3738-17.288 19.962-27.077 31.029-38.081" fill="#f00"/>
+      <path id="path3665" d="m488.86 356.49c1.0112-12.454-0.96603-23.115 4.2312-38.081 1.7778 12.275 9.7224 21.466 16.925 31.029" fill="#f00"/>
+      <path id="path2887" d="m499.44 411.49c-21.096-15.309-26.785-38.322-25.387-64.878 38.744-13.352 137.27-34.162 134.34-76.161-3.4223-49.014-89.344-64.932-135.75-73.34 0 0-17.094-1.4228-16.925-26.797 0.14296-21.415 19.844-26.205 11.283-31.029-6.6842-7.1894 4.2947-23.293 12.341-28.913 30.73-21.464 48.742-23.145 74.045-34.202 18.682-8.1631 27.486-27.441 46.19-35.612 39.665-17.329 128.35-19.745 128.35-19.745 21.369-13.725 48.445-49.982 66.288-88.855 48.991 39.194 51.89 78.435 57.826 112.83 0 0 32.143 19.229 45.132 32.439 24.871 25.293 42.915 56.722 60.647 87.444 18.187 31.511 26.826 68.291 46.543 98.727 31.566 48.727 40.034 92.096 50.774 148.09 2.5152 13.113-3.4413 19.873-11.471 25.077h-415.88c-11.289-30.161-85.177-16.986-128.34-25.077z"/>
+      <path id="path3661" d="m555.15 118.84s15.264 7.0718 23.271 6.3468c12.461-1.1282 33.849-16.219 33.849-16.219s-17.634-8.2115-26.797-7.0519c-11.484 1.4532-30.323 16.925-30.323 16.925z" fill="#0f0"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Kittah Dangerous by Rones</dc:title>
+        <dc:date>2011-02-14T17:30:48</dc:date>
+        <dc:description>Kittah angry</dc:description>
+        <dc:source>http://openclipart.org/detail/118249/cateh-dangerous-by-rones-by-rones</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rones</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cat</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>head</rdf:li>
+            <rdf:li>infernal</rdf:li>
+            <rdf:li>kittah</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
